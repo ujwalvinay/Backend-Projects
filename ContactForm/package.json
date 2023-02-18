@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "Simple contact form built using express.js",
+  "main": "contact.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ujwal vinay M K",
+  "license": "ISC"
+}
